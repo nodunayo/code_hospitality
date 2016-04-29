@@ -1,0 +1,5 @@
+---
+applications:
+  - name: code_hospitality
+    memory: 128mb
+
